@@ -1,0 +1,53 @@
+Cell 01 - Address: BC:54:FC:DF:E3:0F
+          ESSID: "chinafltec"
+          Mode: Master  Channel: 1
+          Signal: -96 dBm  Quality: 37/94
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+
+Cell 02 - Address: 74:05:A5:EE:CE:42
+          ESSID: "YBS5"
+          Mode: Master  Channel: 6
+          Signal: -101 dBm  Quality: 21/94
+          Encryption: mixed WPA/WPA2 PSK (TKIP, CCMP)
+
+Cell 03 - Address: 18:D9:8F:BE:DB:81
+          ESSID: unknown
+          Mode: Master  Channel: 6
+          Signal: -99 dBm  Quality: 27/94
+          Encryption: WPA2 PSK (CCMP)
+
+Cell 04 - Address: 88:C3:97:C9:CC:7E
+          ESSID: "Haochuang"
+          Mode: Master  Channel: 11
+          Signal: -104 dBm  Quality: 11/94
+          Encryption: mixed WPA/WPA2 PSK (TKIP, CCMP)
+
+Cell 05 - Address: 90:2B:D2:C5:3C:41
+          ESSID: unknown
+          Mode: Master  Channel: 11
+          Signal: -101 dBm  Quality: 21/94
+          Encryption: WPA2 PSK (CCMP)
+
+Cell 06 - Address: 18:D9:8F:BE:DB:7C
+          ESSID: "YBs"
+          Mode: Master  Channel: 6
+          Signal: -111 dBm  Quality: 0/94
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+
+Cell 07 - Address: 78:D3:8D:E9:94:B0
+          ESSID: "WirelessAP-01"
+          Mode: Master  Channel: 7
+          Signal: -99 dBm  Quality: 27/94
+          Encryption: WPA2 PSK (TKIP, CCMP)
+
+Cell 08 - Address: 18:D9:8F:BE:DB:7D
+          ESSID: unknown
+          Mode: Master  Channel: 6
+          Signal: -111 dBm  Quality: 0/94
+          Encryption: WPA2 PSK (CCMP)
+
+Cell 09 - Address: 90:8D:78:5C:6A:00
+          ESSID: "www.iaxel.cn_2.4G"
+          Mode: Master  Channel: 3
+          Signal: -82 dBm  Quality: 82/94
+          Encryption: mixed WPA/WPA2 PSK (TKIP, CCMP)
